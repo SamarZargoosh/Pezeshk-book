@@ -1,0 +1,25 @@
+.container{
+    width: 80%;
+    margin: auto;
+    border-bottom: 1px solid #9b9b9b;
+    font-family: 'Open Sans' , sans-serif;
+}
+.container h1{
+    margin-top: 50px;
+}
+.container p{
+    line-height: 3em;
+}
+.container button{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333;
+    font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.container button:hover{
+    background-color: #ddd;
+}

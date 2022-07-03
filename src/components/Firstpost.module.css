@@ -1,0 +1,12 @@
+.container{
+    width: 80%;
+    margin: auto;
+    border-bottom: 1px solid #9b9b9b;
+    font-family: 'Open Sans' , sans-serif;
+}
+.container h1{
+    margin-top: 50px;
+}
+.container p{
+    line-height: 3em;
+}
